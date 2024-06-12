@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="154d0c98-846f-45ad-9fac-9401dd90617a" name="Changes" comment="" />
+    <list default="true" id="154d0c98-846f-45ad-9fac-9401dd90617a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/v1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/v1/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/v1/endpoints/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/v1/endpoints/rag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/commons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/bert_classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/gemini_ensemble.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/gemini_few_shots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/gemini_few_shots_major_vote.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classification/llama_classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/evaluate_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/evaluate_llama3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_pivot_table_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_pivot_table_llama3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_results_graph_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_results_graph_llama3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_results_tree_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/generate_results_vector_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/ragas_results_analysis_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/ragas_results_analysis_llama3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/ragas_results_generation_gpt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/ragas_results_generation_llama3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718211453993</updated>
-      <workItem from="1718211455065" duration="964000" />
+      <workItem from="1718211455065" duration="1034000" />
     </task>
     <servers />
   </component>
